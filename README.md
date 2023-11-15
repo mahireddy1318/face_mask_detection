@@ -1,7 +1,8 @@
 
-# About
+
 > In this project, I'm going to build a model to detect whether a person is wearing mask in real-time. 
-  I will do this using the concepts of computer vision using the OpenCV library, CNN and Keras.
+>I will do this using the concepts of computer vision using the OpenCV library, CNN and Keras.
+> For this i'm using covid mask detection dataset from kaggle.
 
 
 ## Development setup
